@@ -1,0 +1,21 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #f5eec2;
+	text-align: center;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #39395f}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
+
+cite{
+	text-align: center;
+	font-size: 30%;
+}
